@@ -1,0 +1,55 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+.venv
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Конфиги с секретами
+config.py
+*.conf
+*.secret
+*.key
+settings_local.py
+
+# Логи
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+
+# Файлы сборки
+dist/
+build/
+*.egg-info/
+
+# Файлы с токенами
+token.txt
+bot_token.txt
+api_key.txt
+
+# Временные файлы
+temp/
+tmp/
+*.tmp
