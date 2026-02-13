@@ -26,4 +26,4 @@ Elliot Bot - Бот в терминале с функциями
 
 - Elliot_pw_normal: Рекомендуемый пароль
 
-- Данный проект лицензирован MIT Licnese - см.файл LICENSE
+- Данный проект лицензирован MIT LICENSE - см.файл LICENSE
